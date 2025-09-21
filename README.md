@@ -29,5 +29,4 @@ To overcome these limitations, this work integrates the **DeepFloyd IF** model�
 
 ---
 
-## 🏗️ System Architecture  
 
